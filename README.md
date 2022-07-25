@@ -134,12 +134,6 @@ See the [open issues](https://github.com/smujuzi/Web-Scrape-Add-To-Spotify/issue
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- CONTACT -->
-
-## Contact
-
-Project Link: [https://github.com/smujuzi/Web-Scrape-Add-To-Spotify](https://github.com/smujuzi/Web-Scrape-Add-To-Spotify)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
